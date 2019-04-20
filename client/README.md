@@ -13,7 +13,7 @@ https://forum.vuejs.org/t/beforerouteenter-behavior-within-chrome-debugger/61924
 
 <img src="00-click projects page.png"/>
 
-<img src="01-component-renders.pn"/>
+<img src="01-component-renders.png"/>
 
 <img src="02-then-error-page-component-loads.png"/>
 
