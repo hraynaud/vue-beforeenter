@@ -11,5 +11,5 @@ The discussion of the issue can be found in this forum post:
 
 https://forum.vuejs.org/t/beforerouteenter-behavior-within-chrome-debugger/61924
 
-(00-click projects page.png)
+![diagram](00-click projects page.png)
 
